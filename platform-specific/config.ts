@@ -1,0 +1,1 @@
+export const REACT_APP_API_URL = "http://soloapi.alefsundays.com:5000/api";
